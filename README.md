@@ -5,4 +5,4 @@ Project Mentor  Bradley Evans
 Outside Mentor Unknown
 Weekly Meeting time: Fridays 2PM
 Core questions: How does American political messaging through state of the unions (topic modelling)
-Corpus: SotU adresses (reagan era, 90s, 2000s)
+Corpus: SotU adresses (reagan era(and carter I guess), 90s, 2000s)
